@@ -24,7 +24,7 @@ class CreatePostContainer extends StatelessWidget {
               const Expanded(
                 child: TextField(
                   decoration: InputDecoration.collapsed(
-                    hintText: 'What\\'s on your mind?',
+                    hintText: "What's on your mind?",
                   ),
                 ),
               )
